@@ -1,6 +1,5 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
 
 <h3 align="center">
   Hi, I'm Mvxyz
@@ -10,7 +9,7 @@
 
 ---
 
-- 👨‍💻 Estudiante de ingeniería en informatica.
+👨‍💻 Estudiante de ingeniería en informatica.
 
 ---
 
@@ -19,7 +18,6 @@
 ---
 
 #### 🔧 Languages
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,7 +40,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+
 #### 🔧 Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xMvxyz&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xMvxyz&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" />
 
+</div>
