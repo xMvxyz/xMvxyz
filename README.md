@@ -2,14 +2,13 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 
 <h3 align="center">
-  Hi, I'm Mvxyz
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi, I'm Mvxyz.
 </h3>
 
+<br/>
 
----
 
-👨‍💻 Estudiante de ingeniería en informatica.
+Estudiante de ingeniería en informatica.
 
 ---
 
@@ -40,9 +39,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+<br/>
 
-#### 🔧 Stats
+### 📊 Stats
 
+<br/>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xMvxyz&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" />
 
 </div>
