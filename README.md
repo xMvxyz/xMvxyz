@@ -44,6 +44,6 @@ Estudiante de ingeniería en informatica.
 ### 📊 Stats
 
 <br/>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xMvxyz&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" />
-
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xMvxyz&show_icons=true&theme=transparent&locale=en&layout=compact" alt="anii693"/>
+  
 </div>
