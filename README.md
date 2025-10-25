@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a8b8c&height=120&section=header"/>
 
 <h3 align="center">
   Hi, I'm Mvxyz.
@@ -45,5 +45,5 @@ Estudiante de ingeniería en informatica.
 
 <br/>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xMvxyz&show_icons=true&theme=transparent&locale=en&layout=compact" alt="anii693"/>
-  
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a8b8c&height=120&section=footer"/>
 </div>
