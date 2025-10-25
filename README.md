@@ -45,5 +45,8 @@ Estudiante de ingeniería en informatica.
 
 <br/>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xMvxyz&show_icons=true&theme=transparent&locale=en&layout=compact" alt="anii693"/>
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a8b8c&height=120&section=footer"/>
+<br/>
+<br/>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xMvxyz&radius=16&theme=github-dark&area=true&custom_title=Actividad%20de%20xMvxyz" height="300"/>
 </div>
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a8b8c&height=120&section=footer"/>
